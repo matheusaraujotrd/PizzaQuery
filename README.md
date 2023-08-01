@@ -11,3 +11,6 @@ O repositório está dividido em três partes.
 
 ## OriginalData
   Os dados originais do conjunto de dados bem como os arquivos criados por mim posteriormente.
+
+
+![image](https://github.com/matheusaraujotrd/PizzaQuery/assets/75196977/e8d1c5ab-a34d-41e2-8aa7-dba20770335d)
